@@ -21,3 +21,7 @@ To run code found in this project:
   - *Laptop users* Reduce `NUM_AGENTS` to less than 50_000, unless you know your computer can handle more.
 
 - Compile and run the program by executing  `cargo run --release` in your preferred shell.
+
+
+
+To read the paper navigate to ./Paper/
